@@ -21,6 +21,8 @@ pip install beautifulsoup4
 
 Al ejecutar el script, este pedirá al usuario que introduzca el año del que desea obtener los datos (por ejemplo, si introduce 2005, obtendrá los datos de la temporada 2004-2005, tal y como puede comprobarse en la carpeta dataset de este repositorio). Los datos se almacenan en dos archivos CSV, uno para temporada regular y otro para Playoffs, en una carpeta 'Resultados' (si la carpeta no existe, el script creará una).
 
+DOI de Zenodo con el dataset generado: https://doi.org/10.5281/zenodo.19438712
+
 
 ENGLISH
 -------------------------------------------------------------------------------------------------------------------
@@ -44,3 +46,5 @@ pip install lxml
 pip install beautifulsoup4
 
 When the script is run, it will ask the user to enter the year for which they wish to obtain the data (for example, if you enter 2005, you will obtain data for the 2004–2005 season, as can be seen in the ‘dataset’ folder of this repository). The data is stored in two CSV files, one for the regular season and one for the Playoffs, in a “Resultados” folder (if the folder does not exist, the script will create one).
+
+Zenodo DOI for the generated dataset: https://doi.org/10.5281/zenodo.19438712
